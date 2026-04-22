@@ -1,1 +1,2 @@
 CREATE DATABASE MyDatabase;
+CREATE TABLE users;
